@@ -1,5 +1,8 @@
 body{
-	background-image:url("background.png")
+	background-image:url("../images/background.png");
+}
+
+#title{
 	color:white;
 	font-size:60px;
 	letter-spacing:15;
@@ -16,7 +19,7 @@ body{
 }
 
 .container-fluid{
-	background-color:#ffccd4;
+	background-color:#FFCCD4;
 	position:fixed;
 	left:100px;
 	right:100px;
