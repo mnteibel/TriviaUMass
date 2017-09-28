@@ -1,8 +1,5 @@
 body{
-	background-image:url("https://s3.amazonaws.com/spoonflower/public/design_thumbnails/0598/7185/rvintage_camper_4_shop_thumb.png");
-}
-
-#title{
+	background-image:url("background.png")
 	color:white;
 	font-size:60px;
 	letter-spacing:15;
