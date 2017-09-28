@@ -1,0 +1,60 @@
+body{
+	background-image:url("../images/Background.png");
+}
+
+#title{
+	color:white;
+	font-size:60px;
+	letter-spacing:15;
+	font-family: 'Luckiest Guy', cursive;
+	font:bold;
+}
+
+#start{
+	color:gray;
+	background-color:white; 
+	font-size:30px;
+	width:150px;
+	height:60px;
+}
+
+.container-fluid{
+	background-color:#ffccd4;
+	position:fixed;
+	left:100px;
+	right:100px;
+	top:100px;
+	bottom:50px;
+}
+
+#seconds{
+	color:gray;
+	position:relative;
+	bottom:20px;
+}
+
+#question{
+	color:gray;
+	position:relative;
+	bottom:28px;  
+	letter-spacing:1.5; 
+}
+
+.answer{
+	color:gray;
+	background-color:#ffccd4;
+	font-size:20px; 
+	line-height:2;
+	border:none;
+}
+
+#message{
+	color:#008B8B;
+	position:relative;
+	bottom:120px;
+
+}
+#image{
+	position:relative;
+	bottom:100px;
+}
