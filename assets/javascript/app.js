@@ -14,64 +14,64 @@ $(document).ready(function() {
 		question : "What actor stared in the hit 80s movie Roadhouse",
 		answers : ["A. Patrick Swayze","B. Brad Pitt","C. Tom Cruise", "D. Brian Barone"],
 		correctAnswer : "A. Patrick Swayze",
-		images : "<img src=https://media.giphy.com/media/l41lYSXS3H8JXbZV6/giphy-downsized-large.gif height=220>"
+		images : "<img src=https://media.giphy.com/media/l41lYSXS3H8JXbZV6/giphy-downsized-large.gif height=250>"
 	}
 	var q2 = {
-		question : "Who was the 43rd President of the United States?",
-		answers : ["A. Harrison Ford","B. George W. Bush","C. Will Ferrel", "D. Abraham Lincoln"],
-		correctAnswer : "B. George W. Bush",
-		images : "<img src=https://media.giphy.com/media/KU5ZYokJKL3tC/giphy.gif height=220>"
+		question : "Who won drunkest friend on Spring Break Junior Year?",
+		answers : ["A. Nicollete","B. Alex Remstein","C. Jess Carter", "D. Billy Rand"],
+		correctAnswer : "B. Alex Remstein",
+		images : "<img src=https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/12108081_10206118721109223_6742408814261763761_n.jpg?oh=a78bf37f45276959f8ec5e07a45d0c9a&oe=5A53CAEE height=250>"
 	}
 	var q3 = {
-		question : "Which crime-fighting cartoon dog has the initals 'S.D.' on his collar?",
-		answers : ["A. Max","B. Snoopy","C. Smokey the Bear", "D. Scooby Doo"],
-		correctAnswer : "D. Scooby Doo",
-		images : "<img src=https://media.giphy.com/media/lHswuNEWQhiMw/giphy.gif height=220>"
+		question :"How many drinks does it take until Jaime's jersey accent comes out?",
+		answers : ["A. Its usually there by the pregame","B. 3-5","C. Just 1", "D. Never"],
+		correctAnswer : "A. Its usually there by the pregame",
+		images : "<img src=https://media.tenor.com/images/878e6f1bdce4b878b7886db32616144e/tenor.gif height=250>"
 	}
 	var q4 = {
-		question : "What job does Bill Murray work in the movie Caddyshack?",
-		answers : ["A. Golf Pro","B. General Manager","C. Mailman", "D. Grounds Keeper"],
-		correctAnswer : "D. Grounds Keeper",
-		images : "<img src=https://cdn20.patch.com/inline_images/3500945/1474660521.gif height=220>"
+		question : "Whats Barone's favorite rom-com?",
+		answers : ["A. What Happens In Vegas","B. Crazy Stupid Love","C. Just friends", "D. Love Actually"],
+		correctAnswer : "D. Love Actually",
+		images : "<img src=https://media.giphy.com/media/1YqRetWqdaWEE/giphy.gif height=250>"
 	}
 	var q5 = {
-		question : "How many error messages to you get trying to code this assignment?",
-		answers : ["A. Too many to count","B. None","C. Fifteen", "D. Just click one you have a 1/4 chance"],
-		correctAnswer : "A. Too many to count",
-		images : "<img src=https://i1.wp.com/blog-pantheon-prod.global.ssl.fastly.net/blog/wp-content/uploads/2017/03/coding-programming-errors-r2d2.gif?resize=500%2C211&ssl=1 height=220>"
+		question : "In all four years of school who had the worst relationship?",
+		answers : ["A. Billy and Chillanj","B. Max and Madi","C. Erica and Yoni","D. We all know the answer I put here"],
+		correctAnswer : "A. Billy and Chillanj",
+		images : "<img src=https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/10898217_10205713083726735_2178701937100689242_n.jpg?oh=08f8f5644a28eeb5476cdc6a49d9c919&oe=5A525B05 height=250>"
 	}
-	//var q6 = {
-		//question : "Question?",
-		//answers : ["A.","B.","C.", "D."],
-		//correctAnswer : "B.",
-		//images : "<img href=../images/roadhouse.gif>"
-	//}
-	//var q7 = {
-	//	question : "Question?",
-	//	answers : ["A.","B.","C.", "D."],
-	//	correctAnswer : "C.",
-	//	images : "<img href=../images/roadhouse.gif>"
-	//}
-	//var q8 = {
-	//	question : "Question?",
-	//	answers : ["A.","B.","C.", "D."],
-	//	correctAnswer : "D.",
-	//	images : "<img href=../images/roadhouse.gif>"
-	//}
-	//var q9 = {
-	//	question : "Question?",
-	//	answers : ["A.","B.","C.", "D."],
-	//	correctAnswer : "A.",
-	//	images : "<img href=../images/roadhouse.gif>"
-	//}
-	//var q10 = {
-	//	question : "Question?",
-	//	answers : ["A.","B.","C.", "D."],
-	//	correctAnswer : "B.",
-	//	images : "<img href=../images/roadhouse.gif>"
-	//}
+	var q6 = {
+		question : "What dynamic trio loved sleeping at collegestreet/noho?",
+		answers : ["A. Jess, Taylor, Nicollete","B. TBooch, Mirm, Rachel","C. Erica, Mary, Taylor", "D. Ellen, Bridgette, Crazy Jill"],
+		correctAnswer : "B. TBooch, Mirm, Rachel",
+		images : "<img src=https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-9/15327433_1239558666104749_2615860212145420278_n.jpg?oh=b5f0ad19f42c8c13348ea695cd867304&oe=5A3CB377 height=250>"
+	}
+	var q7 = {
+		question : "Who is still technically dating Jess since they never officially broke up?",
+		answers : ["A. Joe Varnas","B. Mitch","C. Adam Ladd", "D. Club Hockey Coach"],
+		correctAnswer : "C. Adam Ladd",
+		images : "<img src=https://scontent.ford1-1.fna.fbcdn.net/v/t1.0-9/18446793_10212583965171067_6470863626085853214_n.jpg?oh=e2ac9a33adeef1955aad18a5bb499ecd&oe=5A8295C8 height=250>"
+	}
+	var q8 = {
+		question : "Who is most likely to be watching Fairly Odd Parents at 5AM?",
+		answers : ["A. Cam Felix","B. Billy Rand","C. Rachel Ray", "D. DJ TKears"],
+		correctAnswer : "D. DJ Tyler Kears",
+		images : "<img src=http://vignette4.wikia.nocookie.net/fairlyoddparents/images/9/9a/GIF-Timvisible-Crocker001.gif/revision/latest?cb=20120413002240&path-prefix=en height=250>"
+	}
+	var q9 = {
+		question : "Who got too drunk at Teibel Easter, threw up, and wiped up the throw up with Philip's sweatshirt?",
+		answers : ["A. Smokey the Bear","B. Jess Carter","C. Erica Gray", "D. Taylor Kelly"],
+		correctAnswer : "D. Taylor Kelly",
+		images : "<img src=https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/11088525_572992806137036_9044012998914242278_n.jpg?oh=733789f009718386dfaa49aeeb1a94db&oe=5A843C73 height=250>"
+	}
+	var q10 = {
+		question : "Who's got the best friends in the world?",
+		answers : ["A. Not us","B. ALL OF US!","C. Austin", "D. British Chloe"],
+		correctAnswer : "B. ALL OF US!",
+		images : "<img src=https://media.giphy.com/media/12UlfHpF05ielO/giphy.gif height=250>"
+	}
 
-	var qArray = [q1,q2,q3,q4,q5]
+	var qArray = [q1,q2,q3,q4,q5,q6,q7,q8,q9,q10]
 
 	///////TIMER FUNCTION//////
 
