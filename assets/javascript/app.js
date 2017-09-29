@@ -55,7 +55,7 @@ $(document).ready(function() {
 	var q8 = {
 		question : "Who is most likely to be watching Fairly Odd Parents at 5AM?",
 		answers : ["A. Cam Felix","B. Billy Rand","C. Rachel Ray", "D. DJ TKears"],
-		correctAnswer : "D. DJ Tyler Kears",
+		correctAnswer : "D. DJ TKears",
 		images : "<img src=http://vignette4.wikia.nocookie.net/fairlyoddparents/images/9/9a/GIF-Timvisible-Crocker001.gif/revision/latest?cb=20120413002240&path-prefix=en height=250>"
 	}
 	var q9 = {
